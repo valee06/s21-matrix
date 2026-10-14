@@ -1,0 +1,13 @@
+# Артефакты сборки и покрытия
+build/
+report/
+*.o
+*.a
+*.out
+*.gcda
+*.gcno
+*.info
+*.dSYM/
+
+# Прочее
+.DS_Store
